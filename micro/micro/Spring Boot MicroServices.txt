@@ -1,0 +1,6 @@
+Spring Boot MicroServices:
+
+1) User Service Port Number Defined As=9002
+2) contact service port Number = 9003
+3) apigateway=8999
+4) eureka=8761
